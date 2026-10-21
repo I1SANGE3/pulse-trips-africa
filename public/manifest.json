@@ -1,0 +1,26 @@
+{
+  "id": "/",
+  "name": "PulseTrips Africa | Travel with a heartbeat",
+  "short_name": "PulseTrips",
+  "description": "Soulful African wildlife safaris, gorillas, expeditions and instant multi-channel payments.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#090D16",
+  "theme_color": "#090D16",
+  "icons": [
+    {
+      "src": "/logo.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/logo.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

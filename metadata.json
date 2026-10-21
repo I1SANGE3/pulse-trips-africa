@@ -1,0 +1,8 @@
+{
+  "name": "PulseTrips Africa | Bespoke East & Southern African Safaris",
+  "description": "Premier African safari and experiential tour operator featuring gorilla trekking, Great Migration expeditions, and dedicated operations dispatch & owner management portals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
